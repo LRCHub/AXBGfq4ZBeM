@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "きっかけ",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-02-07T01:06:36.237859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/01_きっかけ_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きっかけ",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/02_きっかけ_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01.きっかけ",
+      "artist": "てふてふ。",
+      "has_synced": true,
+      "path": "select/03_01.きっかけ_てふてふ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_きっかけ_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_きっかけ_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_きっかけ_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_きっかけ_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_05_きっかけ_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_06_きっかけ_乃木坂46.txt"
+    }
+  ]
+}
